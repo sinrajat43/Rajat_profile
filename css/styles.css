@@ -33,11 +33,11 @@ hr{
 }
 .cloud1{
   position:absolute;
-  right:200px;
+  right:15%;
 }
 .cloud2{
   position: absolute;
-  left: 200px;
+  left: 15%;
 }
 .hacker{
   border-radius: 0;
