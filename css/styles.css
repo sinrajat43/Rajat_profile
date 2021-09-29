@@ -82,6 +82,9 @@ a{
 a:hover{
   color: #d2fafb;
 }
+.in-link:hover{
+  color: #05f6fc;
+}
 p{
   margin: auto;
 }
