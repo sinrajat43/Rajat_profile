@@ -82,8 +82,17 @@ a{
 a:hover{
   color: #d2fafb;
 }
+.in-link {
+    margin-left: 0px;
+}
 .in-link:hover{
-  color: #1fab89;
+  color: #14daaa;
+}
+.in-link2 {
+    margin-left: 0px;
+}
+.in-link2:hover{
+  color: #14daaa;
 }
 p{
   margin: auto;
